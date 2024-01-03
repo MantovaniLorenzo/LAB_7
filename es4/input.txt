@@ -1,0 +1,9 @@
+atleta1 60
+atleta3 120
+atleta5 30
+atleta4 150
+atleta2 10
+atleta6 20
+atleta8 100
+atleta9 50
+atleta7 90
