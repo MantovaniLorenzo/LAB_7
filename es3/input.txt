@@ -1,0 +1,4 @@
+luogo1 1 luogo2 2
+luogo2 3 luogo3 4
+luogo3 4 luogo1 5
+luogo4 5 luogo2 8
