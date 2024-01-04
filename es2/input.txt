@@ -1,0 +1,8 @@
+materia1 nome1 cognome1 1 5 80
+materia2 nome2 cognome2 1 8 75
+materia3 nome3 cognome3 2 2 90
+materia4 nome3 cognome3 2 2 70
+materia5 nome2 cognome2 3 5 80
+materia6 nome1 cognome1 3 2 90
+materia7 nome3 cognome3 4 2 80
+materia8 nome1 cognome1 4 2 90
