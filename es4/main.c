@@ -76,8 +76,8 @@ int main(void) {
 	fclose(fp);
 
 	printf("\n Il primo arrivato e' %s con %d punti.\n", primo, max1);
-	printf("\n Il primo arrivato e' %s con %d punti.\n", secondo, max2);
-	printf("\n Il primo arrivato e' %s con %d punti.\n", terzo, max3);
+	printf("\n Il secondo arrivato e' %s con %d punti.\n", secondo, max2);
+	printf("\n Il terzo arrivato e' %s con %d punti.\n", terzo, max3);
 
 	return 0;
 }
